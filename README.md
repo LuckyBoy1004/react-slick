@@ -100,7 +100,7 @@ For all available methods, go [here](https://react-slick.neostack.com/docs/api#m
 Want to run demos locally
 
 ```bash
-git clone https://github.com/akiran/react-slick
+git clone https://github.com/LuckyBody1004/react-slick
 cd react-slick
 npm install
 npm start
